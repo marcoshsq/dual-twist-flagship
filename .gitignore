@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.blend
+*.blend[0-9]*
+*.png
+*.mp4
+*.pdf
+.DS_Store
